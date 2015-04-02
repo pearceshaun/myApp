@@ -99,19 +99,16 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 66,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
 	"command_palette":
 	{
 		"height": 67.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
@@ -166,10 +163,21 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/Users/sppearce/Dropbox/Amazon/Projects/myApp",
+		"/Users/sppearce/Dropbox/Amazon/Projects/myApp/Scripts"
+	],
 	"file_history":
 	[
-		"/Users/sppearce/Downloads/CodeDeploy_SampleCF_Template.json",
+		"/Users/sppearce/Dropbox/Amazon/Projects/myApp/appspec.yml",
+		"/Users/sppearce/Dropbox/Amazon/Projects/myApp/index3.html",
+		"/Users/sppearce/Dropbox/Amazon/Projects/myApp/index2.html",
+		"/Users/sppearce/Dropbox/Amazon/Projects/CLI Demo/launch-instances.sh",
+		"/Users/sppearce/Dropbox/Amazon/Projects/myApp/Scripts/validateservice.sh",
 		"/Users/sppearce/Dropbox/Amazon/Projects/codeDeployDemo/codeDeployDemo.sublime-project",
+		"/Users/sppearce/Dropbox/Amazon/Projects/myApp/index.html",
+		"/Users/sppearce/Downloads/CodeDeploy_SampleCF_Template.json",
 		"/Users/sppearce/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/4B3D059C-7C40-45C0-AB38-AFCE32B4D73B/EC2-Sandbox.txt",
 		"/Users/sppearce/Dropbox/Amazon/Projects/Magento/Test Rig/magento/cf-template.json",
 		"/Users/sppearce/Dropbox/Amazon/Projects/Intro to AWS Demo/Demo/snippets.txt",
@@ -356,40 +364,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 66,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -432,6 +408,7 @@
 	{
 		"height": 110.0
 	},
+	"pinned_build_system": "",
 	"project": "myApp.sublime-project",
 	"replace":
 	{
@@ -441,6 +418,7 @@
 	"select_file":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],
@@ -449,6 +427,7 @@
 	"select_project":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],
@@ -457,6 +436,7 @@
 	"select_symbol":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],
