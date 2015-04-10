@@ -6,6 +6,8 @@ files:
 hooks:
    ApplicationStop:
      - location: Scripts/applicationstop.sh
+   BeforeInstall:
+     - location: Scripts/beforeinstall.sh
    ApplicationStart:
      - location: Scripts/applicationstart.sh
    ValidateService:
