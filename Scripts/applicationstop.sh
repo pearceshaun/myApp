@@ -1,3 +1,5 @@
 #!/bin/bash
 
-service httpd stop
+#service httpd stop
+
+echo 'hello'
