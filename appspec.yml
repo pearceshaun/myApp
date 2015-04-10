@@ -4,9 +4,9 @@ files:
   - source: /app
     destination: /var/www/html
 hooks:
-   ApplicationStop
+   ApplicationStop:
      - location: Scripts/applicationstop.sh
-   ApplicationStart
+   ApplicationStart:
      - location: Scripts/applicationstart.sh
    ValidateService:
      - location: Scripts/validateservice.sh
